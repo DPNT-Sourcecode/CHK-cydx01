@@ -1,7 +1,6 @@
 # noinspection PyShadowingBuiltins,PyUnusedLocal
 def compute(x, y):
-    x = int(32)
-    y = int(96)
+    x = int(0-100)
+    y = int(0-100)
     sum = (x * y)
-    print(sum)
-
+    return(sum)

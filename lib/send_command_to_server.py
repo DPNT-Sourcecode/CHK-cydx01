@@ -16,7 +16,7 @@ from runner.user_input_action import get_user_input
   ~~~~~~~~~~ Running the system: ~~~~~~~~~~~~~
  
     From IDE:
-       Run this file from the IDE. 
+       Run this file from the IDE. deploy
  
     From command line:
        PYTHONPATH=lib python lib/send_command_to_server.py
