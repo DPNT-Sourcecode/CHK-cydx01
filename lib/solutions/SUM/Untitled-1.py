@@ -1,4 +1,4 @@
 def compute(x, y):
-    x = 42
-    y = 91
-print(x*y)
+    x = int(42)
+    y = int(91)
+print((x) * (y))
